@@ -1,7 +1,7 @@
 # 📘 React – Dan 1
 
 🗓️ **Datum:** 03. April 2025.  
-🕐 **Vrijeme rada:** od 8:30 do večernjih sati
+🕐 **Vrijeme rada:** od 08:00 do 19:00h, uz kratke pauze
 
 ---
 
