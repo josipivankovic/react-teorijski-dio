@@ -46,7 +46,7 @@
 
 ---
 
-## 🗣️ Napomena za mentora:
+## 🗣️ Napomena za Andreja:
 Ovaj dnevnik pišem paralelno sa svakim korakom koji učim.  
 Ne žurim, već želim sve 100% razumjeti.  
 Planiram raditi **stvarni React projekt uz ChatGPT vodiča**, gdje će mi svaki korak biti objašnjen — kako bih sutra mogao sve to raditi i samostalno.
